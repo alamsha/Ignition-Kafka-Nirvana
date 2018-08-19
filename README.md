@@ -30,6 +30,7 @@ https://forum.inductiveautomation.com/t/web-api-to-read-write-tags-json/19038/36
             cd kafka-pubsub/
             yarn 
             yarn add no-kafka
+            node kafka-consumer.js 
             https://github.com/oleksiyk/kafka
 
 
