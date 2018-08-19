@@ -28,7 +28,8 @@ https://forum.inductiveautomation.com/t/web-api-to-read-write-tags-json/19038/36
 
         2. To Subscribe JSON payload:
             cd kafka-pubsub/
-            yarn yarn add no-kafka
+            yarn 
+            yarn add no-kafka
             https://github.com/oleksiyk/kafka
 
 
