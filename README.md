@@ -32,5 +32,8 @@ https://forum.inductiveautomation.com/t/web-api-to-read-write-tags-json/19038/36
             yarn add no-kafka
             node kafka-consumer.js 
             https://github.com/oleksiyk/kafka
+            
+            
 
+**Concurrently you can PubSub multiple topics on the same broker, run multiple brokers and multiple clients on the same server or scale it out across several servers horizontally !!.**
 
